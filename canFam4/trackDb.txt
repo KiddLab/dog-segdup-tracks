@@ -1,0 +1,7 @@
+track segdup
+longLabel segdup > 90%
+shortLabel segdup
+visibility hide
+itemRgb on 
+bigDataUrl UU_Cfam_GSD_1.0.BISER_90.plusunplaced.bb
+type bigBed 9
