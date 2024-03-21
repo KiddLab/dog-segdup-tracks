@@ -26,4 +26,3 @@ click the 'Connected Hubs' tab
 paste in this address: https://raw.githubusercontent.com/KiddLab/dog-segdup-tracks/main/dog-segdup-tracks.hub.txt
 
 Click 'Add Hub'
-

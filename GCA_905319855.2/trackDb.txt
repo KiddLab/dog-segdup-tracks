@@ -5,3 +5,9 @@ visibility hide
 itemRgb on 
 bigDataUrl mCanLor1.2.BISER_90.plusunplaced.bb
 type bigBed 9
+
+track retrocopy
+type bigBed 4
+bigDataUrl mCanLor1.2.retrocopy_track.bb
+shortLabel retrocopy
+longLabel retrocopy coordinates
